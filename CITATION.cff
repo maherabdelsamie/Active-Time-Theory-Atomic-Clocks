@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "please cite as below."
+authors:
+  - family-names: "Abdelsamie"
+    given-names: "Maher"
+    orcid: "0000-0003-0942-1461"
+title: "The Secret Inner Workings of Time Exposed by Atomic Clocks"
+version: 1.0.0
+repository-code: "https://github.com/maherabdelsamie/Active-Time-Theory-Atomic-Clocks"
+date-released: 2024-02-02
